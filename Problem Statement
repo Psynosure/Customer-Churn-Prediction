@@ -1,0 +1,6 @@
+Business Goal:
+To predict churn and provide actionable insights to improve customer retention. This can be used for ActivAge or other businesses like subscription-based services or even financial services.
+
+Target Variable:
+
+Churn (0 = No, 1 = Yes)
